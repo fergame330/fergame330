@@ -3,6 +3,7 @@
 <div align="center">
   <a href="https://github.com/fergame330">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fergame330&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img align="right" alt="Fer-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/avatars/615339359742459936/bfa509304d4149627136dd14c1ec1969.png?size=2048">
 </div>
 
 <div style="display: inline_block"><br>
@@ -10,7 +11,6 @@
   <img align="center" alt="Fer-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Fer-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Fer-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Fer-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/avatars/615339359742459936/bfa509304d4149627136dd14c1ec1969.png?size=2048">
 </div>
 
 <div> 
