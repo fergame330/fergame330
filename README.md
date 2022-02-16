@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/fergame330">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fergame330&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="right" alt="Fer-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/avatars/615339359742459936/bfa509304d4149627136dd14c1ec1969.png?size=2048">
+  <img align="left"height="180em" src="https://github-readme-stats.vercel.app/api?username=fergame330&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img align="rigth" alt="Fer-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/avatars/615339359742459936/bfa509304d4149627136dd14c1ec1969.png?size=2048">
 </div>
 
 <div style="display: inline_block"><br>
