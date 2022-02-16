@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/fergame330">
-  <img align="left" alt="Fer-Status" height="180em" src="https://github-readme-stats.vercel.app/api?username=fergame330&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+  <img align="left" alt="Fer-Status" height="180em" src="https://github-readme-stats.vercel.app/api?username=fergame330&show_icons=true&theme=vue&include_all_commits=true&count_private=true&locale=pt-br&custom_title=Status%20de%20Fergame33%200"/>
   <img align="left" alt="Fer-Pic" height="180em" style="border-radius:50px;" src="https://cdn.discordapp.com/avatars/615339359742459936/bfa509304d4149627136dd14c1ec1969.png?size=2048">
    <a href="https://www.youtube.com/channel/UC7XJwsdW-XPeegifBt-uOcA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/fYRbXvmvUr" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
